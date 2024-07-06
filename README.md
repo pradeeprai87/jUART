@@ -1,16 +1,3 @@
-[![jUART](https://github.com/billhsu/jUART/raw/master/doc/jUART_Logo.png)](http://github.com/billhsu/jUART/)
-
-jUART, Cross platform browser plugin for serial port communication from JavaScript
-
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/billhsu/jUART?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-Digital Object Identifiers (DOI): [![citeDOI](https://zenodo.org/badge/4047/billhsu/jUART.png)](http://dx.doi.org/10.5281/zenodo.9999)
-
-##Supported Platforms:
-* **Browsers:** Chrome, Firefox, Safari, IE(IE version is not released yet)
-
-* **OS:** Windows, Linux and Mac
-
 ##Install Plugin
 
 ###Windows:
